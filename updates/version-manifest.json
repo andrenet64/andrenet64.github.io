@@ -1,10 +1,10 @@
-{
-  "windows": {
-    "asset_name": "ConversorOFX-1.0.2.zip",
-    "download_url": "https://andrenet64.github.io/ofxtopdf/updates/ConversorOFX-1.0.2.zip",
-    "sha256": "8e19373c96d60db49b3b9e8ef0c2bf6ef944385a4cdaed44bf0b7edf7c4f09b6"
-  },
-  "notes": "Atualizacao automatica para a versao 1.0.2.",
-  "mandatory": false,
-  "latest_version": "1.0.2"
+﻿{
+    "windows":  {
+                    "asset_name":  "ConversorOFX-1.0.2.zip",
+                    "download_url":  "https://andrenet64.github.io/updates/ConversorOFX-1.0.2.zip",
+                    "sha256":  "8e19373c96d60db49b3b9e8ef0c2bf6ef944385a4cdaed44bf0b7edf7c4f09b6"
+                },
+    "notes":  "Atualizacao automatica para a versao 1.0.2.",
+    "mandatory":  false,
+    "latest_version":  "1.0.2"
 }
